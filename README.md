@@ -1,7 +1,5 @@
 <!-- 헤더 이미지 -->
-<center>
-  <a href="https://ibb.co/VWS5ssWq"><img src="https://i.ibb.co/MDVQmmDC/header.png" alt="header" border="0"></a>
-</center>
+![header](https://i.ibb.co/xrVHstw/header.png)
 
 <!-- 자기소개/희망직무 -->
 <h3>🤍 Introduction <br/></h3>
